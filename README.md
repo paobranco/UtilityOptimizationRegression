@@ -56,5 +56,5 @@ Check the other README files in each folder to see more detailed instructions on
 *****
 
 ### References
-[1] Branco, P. and Torgo, L. and Ribeiro R.P. and Frank E. and Pfahringer B. and Rau M. M. (2017) *"Learning Through Utility Optimization in Regression Tasks"* Data Science and Advanced Analytics (DSAA), 2017 IEEE International Conference on. IEEE, 2017. Tokyo, Japan *(to appear)*.
+[1] Branco, P. and Torgo, L. and Ribeiro, R.P. and Frank, E. and Pfahringer, B. and Rau, M. M. (2017) *"Learning Through Utility Optimization in Regression Tasks"* Data Science and Advanced Analytics (DSAA), 2017 IEEE International Conference on. IEEE, 2017. Tokyo, Japan *(to appear)*.
 
